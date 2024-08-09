@@ -32,9 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0090-subsets-ii) |
+| [0792-binary-search](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
