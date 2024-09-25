@@ -11,22 +11,22 @@
  */
 class Solution {
 public:
-    void helper(TreeNode* node,int &sum, int leftTrue){
+    void helper(TreeNode* node,int &sum, bool isLeft){
         if(node == nullptr){
             return;
         }
 
-        if(node->left == nullptr && node->right == nullptr && leftTrue == 1){
+        if(node->left == nullptr && node->right == nullptr && isLeft == true){
             sum += node->val;
         }
         
-        helper(node->left, sum, 1);
-        helper(node->right, sum, 0);
+        helper(node->left, sum, true);
+        helper(node->right, sum, false);
 
     }
     int sumOfLeftLeaves(TreeNode* root) {
         int sum =0;
-        helper(root, sum,0);
+        helper(root, sum,false);
         return sum;
         
     }
