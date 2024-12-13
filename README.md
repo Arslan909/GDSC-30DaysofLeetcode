@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0022-generate-parentheses) |
+| [1899-count-items-matching-a-rule](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/1899-count-items-matching-a-rule) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0090-subsets-ii) |
 | [0792-binary-search](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0792-binary-search) |
+| [1899-count-items-matching-a-rule](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/1899-count-items-matching-a-rule) |
 ## Bit Manipulation
 |  |
 | ------- |
