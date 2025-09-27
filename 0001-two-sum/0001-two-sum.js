@@ -4,24 +4,19 @@
  * @return {number[]}
  */
 var twoSum = function (nums, target) {
-    let sorted = [...nums].sort((a, b) => { return a - b })
+    let visited = []
 
-    let l = 0
-    let r = nums.length - 1
+    for (let i = 0; i < nums.length; i++) {
 
-    while (l < r) {
-        let sum = sorted[l] + sorted[r]
-        if (sum == target) {
-            let index1 = nums.indexOf(sorted[l]);
-            let index2 = nums.lastIndexOf(sorted[r]);
-            return [index1, index2];
+        let x = target-nums[i];
+
+        let isInVisited = visited.find(obj => obj.ele == x)
+        console.log(isInVisited,"isInVisited")
+
+        if (isInVisited) {
+            return [isInVisited.idx, i];
         }
-
-        if (sum > target) r--
-        if (sum < target) l++
+        visited.push({ idx: i, ele: nums[i] })
     }
-    return []
-    
-    
-    // hashmap is more efficeint use that next time
+    return [];
 };
