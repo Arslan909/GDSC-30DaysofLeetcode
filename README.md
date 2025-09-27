@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0075-sort-colors) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Arslan909/GDSC-30DaysofLeetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
